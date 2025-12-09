@@ -56,3 +56,5 @@ https://redux.js.org/advanced/example-reddit-api
 ## Contributing
 
 Sorry, as this was a practice repo and no longer maintained, will not be updating the repo nor looking into issues/PRs.
+
+Thank you
